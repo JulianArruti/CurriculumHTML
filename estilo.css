@@ -31,6 +31,6 @@
 	font-style: italic;
 	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
-#linku:hover,:focus{
-	color: red;
+#linku:hover{
+	color red
 }
