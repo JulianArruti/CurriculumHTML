@@ -1,0 +1,36 @@
+*{
+	text-align: center;
+}
+.divLista{
+	display: inline-block;
+}
+
+.textodeh{
+	 font-weight: normal;
+}
+.color1{
+	color:#38D2FF;
+}
+.color2{
+	color:#38FFAB;
+}
+.color3{
+	color:#FBF11A;
+}
+.color4{
+	color:#1AFBD2;
+}
+.color5{
+	color:#002EFF;
+}
+.color6{
+	color:#450101;
+}
+
+#loremItalian{
+	font-style: italic;
+	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+#linku:hover,:focus{
+	color: red;
+}
